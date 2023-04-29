@@ -1,7 +1,9 @@
+import BabylonScene from './components/BabylonScene';
+
 function Home() {
   return (
     <div>
-      <h1>Hello, World!</h1>
+      <BabylonScene />
     </div>
   );
 }
