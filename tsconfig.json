@@ -16,6 +16,6 @@
     "incremental": true,
     "isolatedModules": true
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", "./pages"],
+  "include": ["next-env.d.ts", "**/*.tsx", "src/pages"],
   "exclude": ["node_modules"]
 }
